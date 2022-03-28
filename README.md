@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
-<h3 align="center">A passionate Coder | NSUT"23 | CS student</h3>
+<h3 align="center">A Coder | NSUT"23 | CS student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krajat0110&label=Profile%20views&color=0e75b6&style=flat" alt="krajat0110" /> </p>
 
